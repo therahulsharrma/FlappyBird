@@ -1,2 +1,2 @@
 # FlappyBird
-FlappyGame using Python 3
+Flappy Bird Game using Python 3
